@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Outputs
+results/*.joblib
+results/*.csv
+results/*.json
+
+# Raw datasets
+data/*.csv
+!data/.gitkeep
+!data/README.md
+
+# OS files
+.DS_Store

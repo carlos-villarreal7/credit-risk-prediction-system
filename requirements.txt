@@ -1,0 +1,10 @@
+catboost>=1.2
+jupyter>=1.0
+joblib>=1.4
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+pytest>=8.0
+scikit-learn>=1.4
+seaborn>=0.13
+xgboost>=2.0
