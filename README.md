@@ -19,6 +19,18 @@ The pipeline ingests Lending Club loan records, cleans and engineers predictive 
 - Core fields used: `annual_inc`, `dti`, `int_rate`, `grade`, `term`, `loan_amnt`, `installment`, and categorical borrower attributes.
 - Target: `default` where Charged Off = 1 and Fully Paid = 0.
 
+## Data Access
+
+The original Lending Club dataset is **not included** in this repository because it exceeds 1 GB.
+
+**To run the full pipeline:**
+1. Download `loan.csv` from [Kaggle — Lending Club Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club).
+2. Place it at `data/loan.csv`.
+3. Run `python -m src.pipeline` — the loader detects the full dataset automatically.
+
+**Demo mode (no download needed):**
+A 300-row stratified sample (`data/sample_loans.csv`) is included in the repo. When `loan.csv` is absent, the pipeline automatically falls back to this file so the notebook and tests run out of the box.
+
 ## Modeling Approach
 - Primary model: XGBoost (`XGBClassifier`)
 - Fallback model: CatBoost (`CatBoostClassifier`)

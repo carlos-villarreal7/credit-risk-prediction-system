@@ -1,24 +1,33 @@
 # Python cache
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *.pyo
 
 # Virtual environments
 .venv/
 venv/
+env/
 
 # Jupyter artifacts
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
-# Outputs
+# Model and result outputs
 results/*.joblib
 results/*.csv
 results/*.json
 
-# Raw datasets
+# Raw and full datasets (too large for git)
 data/*.csv
-!data/.gitkeep
-!data/README.md
+!data/sample_loans.csv
+data_raw/
+*.db
+
+# Large exports
+*.tar.gz
+*.zip
 
 # OS files
 .DS_Store
+Thumbs.db

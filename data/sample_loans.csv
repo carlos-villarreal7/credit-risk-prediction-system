@@ -1,0 +1,301 @@
+loan_amnt,funded_amnt,term,int_rate,installment,grade,sub_grade,emp_length,home_ownership,annual_inc,verification_status,loan_status,purpose,addr_state,dti,delinq_2yrs,inq_last_6mths,open_acc,pub_rec,revol_bal,revol_util,total_acc
+24000,24000, 60 months,13.67,554.35,C,C4,10+ years,MORTGAGE,85000.0,Source Verified,Charged Off,credit_card,CO,27.86,0.0,1.0,12.0,0.0,23320,86.4,35.0
+7000,7000, 36 months,11.53,230.94,B,B5,5 years,RENT,54980.0,Source Verified,Fully Paid,credit_card,AL,36.02,0.0,0.0,11.0,0.0,4129,51.0,23.0
+5000,5000, 36 months,21.45,189.54,D,D5,5 years,RENT,40000.0,Source Verified,Fully Paid,other,NH,5.16,0.0,0.0,2.0,0.0,2359,98.3,4.0
+8000,8000, 36 months,7.24,247.9,A,A3,7 years,MORTGAGE,85000.0,Not Verified,Fully Paid,credit_card,TX,17.72,0.0,1.0,13.0,0.0,6293,12.6,35.0
+11500,11500, 60 months,19.99,304.62,E,E1,10+ years,MORTGAGE,54000.0,Source Verified,Fully Paid,debt_consolidation,FL,20.07,0.0,1.0,35.0,1.0,12677,23.1,49.0
+6000,6000, 36 months,11.49,197.83,B,B5,10+ years,RENT,56000.0,Not Verified,Charged Off,debt_consolidation,CA,34.23,0.0,0.0,10.0,0.0,22391,76.9,23.0
+16000,16000, 36 months,5.32,481.84,A,A1,< 1 year,MORTGAGE,87000.0,Source Verified,Charged Off,debt_consolidation,GA,3.85,0.0,0.0,7.0,0.0,14593,26.6,14.0
+12000,12000, 36 months,11.86,397.77,B,B5,3 years,RENT,50000.0,Source Verified,Charged Off,debt_consolidation,NJ,21.26,0.0,0.0,11.0,0.0,4941,28.1,20.0
+8000,8000, 36 months,11.48,263.74,B,B5,2 years,RENT,27000.0,Source Verified,Fully Paid,credit_card,AZ,21.16,0.0,0.0,16.0,0.0,5237,100.7,16.0
+6000,6000, 36 months,9.49,192.17,B,B2,1 year,RENT,45000.0,Source Verified,Fully Paid,other,CT,17.44,0.0,0.0,15.0,0.0,3334,12.7,22.0
+20000,20000, 36 months,11.47,659.24,B,B5,5 years,RENT,90000.0,Verified,Fully Paid,other,CA,17.2,1.0,1.0,16.0,0.0,3544,8.8,18.0
+22750,22750, 36 months,18.24,825.21,D,D5,2 years,RENT,60000.0,Source Verified,Charged Off,debt_consolidation,CA,35.52,0.0,1.0,23.0,0.0,28477,79.8,42.0
+10575,10575, 36 months,17.76,381.04,D,D1,2 years,MORTGAGE,50000.0,Verified,Charged Off,debt_consolidation,CA,27.22,0.0,0.0,10.0,0.0,4286,37.3,17.0
+6000,6000, 36 months,18.25,217.67,D,D3,3 years,RENT,20000.0,Not Verified,Fully Paid,other,ND,16.33,0.0,0.0,5.0,0.0,11794,68.0,8.0
+12000,12000, 36 months,16.99,427.78,D,D3,7 years,RENT,45000.0,Not Verified,Charged Off,debt_consolidation,CA,29.09,0.0,3.0,12.0,0.0,8845,53.9,18.0
+15000,15000, 36 months,13.99,512.6,C,C4,10+ years,MORTGAGE,130000.0,Verified,Charged Off,credit_card,AZ,33.12,1.0,2.0,22.0,0.0,43981,66.4,32.0
+19200,19200, 36 months,16.99,684.44,D,D1,2 years,RENT,183000.0,Verified,Fully Paid,credit_card,OH,27.79,0.0,0.0,18.0,0.0,67810,81.1,28.0
+35000,35000, 36 months,15.31,1218.61,C,C2,10+ years,MORTGAGE,97000.0,Verified,Fully Paid,debt_consolidation,IL,25.3,0.0,3.0,14.0,0.0,30725,47.8,36.0
+27350,27350, 60 months,23.99,786.65,F,F3,5 years,RENT,72000.0,Source Verified,Charged Off,debt_consolidation,TX,32.78,0.0,0.0,7.0,0.0,15222,77.3,22.0
+29850,29850, 36 months,13.98,1019.92,C,C3,10+ years,MORTGAGE,114000.0,Not Verified,Fully Paid,debt_consolidation,FL,32.09,0.0,0.0,18.0,0.0,48393,54.4,37.0
+30000,30000, 60 months,22.45,836.27,F,F1,8 years,MORTGAGE,150000.0,Verified,Fully Paid,debt_consolidation,NV,24.48,0.0,1.0,15.0,0.0,23948,76.5,39.0
+12000,12000, 60 months,22.74,336.5,E,E1,10+ years,OWN,75000.0,Verified,Fully Paid,debt_consolidation,TX,30.21,0.0,1.0,23.0,0.0,21102,69.6,56.0
+20000,20000, 36 months,8.9,635.07,A,A5,7 years,MORTGAGE,50000.0,Verified,Fully Paid,debt_consolidation,SC,17.21,0.0,0.0,12.0,0.0,10230,35.2,26.0
+35000,35000, 60 months,18.24,893.35,D,D5,10+ years,MORTGAGE,100000.0,Verified,Charged Off,home_improvement,OR,9.13,2.0,0.0,11.0,1.0,2389,39.2,48.0
+12000,12000, 60 months,26.77,364.78,E,E5,10+ years,MORTGAGE,90000.0,Verified,Fully Paid,credit_card,MO,8.4,0.0,2.0,4.0,0.0,5177,74.0,14.0
+17000,17000, 60 months,24.5,494.01,F,F3,8 years,MORTGAGE,44000.0,Verified,Charged Off,debt_consolidation,MI,22.01,0.0,2.0,16.0,0.0,6031,27.8,26.0
+8000,8000, 36 months,14.48,275.29,C,C5,3 years,RENT,55000.0,Verified,Fully Paid,other,NY,9.49,0.0,1.0,20.0,0.0,6602,68.8,26.0
+20200,20200, 36 months,17.99,730.18,D,D2,6 years,MORTGAGE,53680.0,Verified,Fully Paid,debt_consolidation,KY,18.54,0.0,1.0,4.0,0.0,22155,98.9,24.0
+3500,3500, 36 months,11.49,115.4,B,B5,10+ years,OWN,60000.0,Verified,Fully Paid,other,OK,9.68,0.0,0.0,8.0,0.0,7823,58.4,15.0
+26400,26400, 60 months,7.89,533.91,A,A5,,MORTGAGE,89629.56,Verified,Fully Paid,credit_card,TX,13.6,0.0,0.0,13.0,0.0,71862,38.0,19.0
+6000,6000, 36 months,7.49,186.61,A,A4,10+ years,MORTGAGE,62000.0,Not Verified,Fully Paid,debt_consolidation,SC,15.12,0.0,0.0,12.0,0.0,5515,44.8,18.0
+17125,17125, 60 months,17.57,430.87,D,D4,10+ years,MORTGAGE,70000.0,Verified,Fully Paid,home_improvement,OH,21.5,2.0,1.0,17.0,1.0,9997,29.0,36.0
+35000,35000, 36 months,7.39,1086.96,A,A4,10+ years,MORTGAGE,91000.0,Source Verified,Fully Paid,credit_card,TX,16.85,0.0,1.0,15.0,0.0,41508,65.0,44.0
+3000,3000, 36 months,10.75,97.87,B,B4,,RENT,36000.0,Source Verified,Fully Paid,debt_consolidation,NY,10.3,0.0,0.0,11.0,1.0,3610,37.6,18.0
+6000,6000, 36 months,16.99,213.89,D,D3,3 years,OWN,62000.0,Verified,Fully Paid,home_improvement,LA,19.22,0.0,2.0,10.0,0.0,13624,78.3,25.0
+4000,4000, 36 months,13.99,136.7,C,C3,2 years,RENT,61700.0,Source Verified,Charged Off,debt_consolidation,NV,18.07,0.0,0.0,11.0,2.0,10365,87.8,20.0
+7200,7200, 36 months,8.99,228.93,B,B1,5 years,MORTGAGE,62500.0,Not Verified,Fully Paid,home_improvement,MO,11.17,0.0,0.0,7.0,1.0,770,6.8,22.0
+30500,30500, 60 months,24.85,892.54,E,E3,10+ years,MORTGAGE,135000.0,Source Verified,Fully Paid,credit_card,NV,31.16,1.0,0.0,26.0,0.0,14323,31.0,61.0
+10000,10000, 36 months,7.12,309.32,A,A3,5 years,RENT,65000.0,Not Verified,Fully Paid,debt_consolidation,CA,7.87,0.0,1.0,9.0,0.0,8556,22.3,16.0
+35000,35000, 36 months,16.02,1230.85,C,C5,3 years,RENT,140000.0,Source Verified,Fully Paid,debt_consolidation,NY,13.85,0.0,0.0,8.0,0.0,47171,101.9,13.0
+22000,22000, 36 months,6.62,675.49,A,A2,10+ years,MORTGAGE,71000.0,Source Verified,Charged Off,credit_card,FL,19.52,0.0,0.0,18.0,0.0,19519,38.5,31.0
+8875,8875, 36 months,18.55,323.31,D,D2,4 years,RENT,27000.0,Verified,Charged Off,debt_consolidation,AZ,33.78,0.0,1.0,8.0,0.0,4245,42.9,9.0
+7200,7200, 36 months,6.62,221.07,A,A2,6 years,OWN,72000.0,Not Verified,Charged Off,home_improvement,NJ,12.73,0.0,0.0,15.0,0.0,939,2.5,21.0
+3225,3225, 36 months,13.67,109.71,B,B5,3 years,RENT,28000.0,Source Verified,Fully Paid,debt_consolidation,RI,9.39,0.0,0.0,7.0,1.0,7299,41.9,12.0
+12400,12400, 36 months,8.9,393.74,A,A5,10+ years,OWN,75000.0,Not Verified,Fully Paid,debt_consolidation,CA,18.6,0.0,0.0,12.0,0.0,20120,64.7,25.0
+24000,24000, 60 months,15.61,578.68,D,D1,2 years,RENT,66500.0,Source Verified,Charged Off,debt_consolidation,NY,26.66,0.0,1.0,17.0,0.0,10440,26.5,36.0
+24000,24000, 36 months,12.69,805.08,C,C2,2 years,MORTGAGE,128000.0,Source Verified,Fully Paid,debt_consolidation,RI,9.2,1.0,0.0,13.0,0.0,20561,80.3,28.0
+24000,24000, 36 months,14.65,827.87,C,C5,6 years,OWN,120000.0,Source Verified,Fully Paid,small_business,NC,17.17,0.0,1.0,28.0,1.0,13430,44.8,47.0
+36750,36750, 60 months,10.99,798.86,B,B4,10+ years,MORTGAGE,51000.0,Verified,Fully Paid,debt_consolidation,NY,15.76,1.0,0.0,21.0,0.0,31404,26.7,40.0
+35000,35000, 36 months,7.59,1090.17,A,A3,10+ years,MORTGAGE,240000.0,Source Verified,Fully Paid,debt_consolidation,CA,4.94,0.0,3.0,16.0,0.0,16074,24.3,21.0
+19125,19125, 60 months,15.8,463.06,C,C3,7 years,MORTGAGE,44000.0,Verified,Fully Paid,credit_card,FL,22.47,0.0,0.0,14.0,0.0,25176,83.6,36.0
+20000,20000, 60 months,17.27,499.96,C,C5,7 years,MORTGAGE,120000.0,Source Verified,Charged Off,debt_consolidation,MI,16.07,0.0,2.0,12.0,0.0,19445,79.4,28.0
+10000,10000, 36 months,11.14,328.06,B,B2,10+ years,MORTGAGE,54800.0,Verified,Fully Paid,debt_consolidation,NJ,23.97,0.0,1.0,10.0,0.0,16669,56.7,20.0
+22400,22400, 60 months,13.49,515.31,C,C2,10+ years,MORTGAGE,119000.0,Not Verified,Charged Off,credit_card,VT,23.22,0.0,3.0,20.0,1.0,17669,51.5,47.0
+5000,5000, 36 months,11.44,164.74,B,B4,,RENT,51000.0,Verified,Charged Off,debt_consolidation,UT,22.49,0.0,1.0,14.0,1.0,19188,57.6,30.0
+35000,35000, 36 months,12.74,1174.91,C,C1,1 year,RENT,78000.0,Verified,Fully Paid,debt_consolidation,NJ,6.73,2.0,0.0,6.0,0.0,1325,16.8,21.0
+24200,24200, 60 months,17.86,612.68,D,D5,10+ years,MORTGAGE,55000.0,Not Verified,Charged Off,debt_consolidation,TN,29.35,0.0,0.0,11.0,0.0,19675,43.5,26.0
+7150,7150, 36 months,12.39,238.82,C,C1,1 year,RENT,30000.0,Source Verified,Charged Off,debt_consolidation,GA,34.96,0.0,1.0,13.0,0.0,6157,29.5,16.0
+10000,10000, 36 months,11.99,332.1,C,C1,,OWN,30000.0,Verified,Charged Off,debt_consolidation,AZ,30.16,0.0,0.0,12.0,0.0,7474,43.2,24.0
+24000,24000, 36 months,11.49,791.32,B,B5,10+ years,MORTGAGE,101000.0,Source Verified,Fully Paid,debt_consolidation,MN,26.66,0.0,0.0,13.0,0.0,3582,23.4,38.0
+10000,10000, 36 months,10.78,326.35,B,B4,,RENT,49500.0,Verified,Fully Paid,debt_consolidation,AZ,26.69,0.0,0.0,7.0,0.0,12140,65.6,25.0
+12000,12000, 36 months,15.8,420.71,C,C3,2 years,MORTGAGE,64000.0,Not Verified,Charged Off,credit_card,IN,23.08,0.0,2.0,17.0,0.0,17848,45.4,39.0
+15000,15000, 36 months,15.99,527.29,C,C5,10+ years,MORTGAGE,99000.0,Source Verified,Charged Off,debt_consolidation,TX,21.47,0.0,1.0,11.0,0.0,13188,77.6,24.0
+8325,8325, 36 months,21.7,316.65,E,E2,3 years,RENT,27000.0,Verified,Charged Off,debt_consolidation,NV,33.42,0.0,1.0,9.0,0.0,6995,54.6,12.0
+9000,9000, 36 months,7.69,280.75,A,A4,2 years,MORTGAGE,90000.0,Not Verified,Fully Paid,debt_consolidation,NV,10.54,0.0,0.0,13.0,1.0,11108,38.0,27.0
+7150,7150, 36 months,20.2,266.45,E,E3,8 years,MORTGAGE,30000.0,Verified,Charged Off,home_improvement,CA,11.0,0.0,2.0,7.0,0.0,7934,69.6,8.0
+7200,7200, 36 months,10.49,233.99,B,B3,10+ years,MORTGAGE,150000.0,Verified,Fully Paid,car,VA,20.12,2.0,0.0,14.0,0.0,66379,101.2,32.0
+5000,5000, 36 months,12.69,167.73,C,C2,< 1 year,RENT,39000.0,Source Verified,Fully Paid,credit_card,CA,12.09,0.0,0.0,12.0,0.0,5511,74.5,29.0
+1000,1000, 36 months,6.97,30.87,A,A3,5 years,MORTGAGE,75382.0,Verified,Fully Paid,home_improvement,TX,9.4,0.0,0.0,7.0,0.0,6656,10.6,16.0
+9000,9000, 36 months,13.99,307.56,C,C4,2 years,MORTGAGE,100000.0,Source Verified,Fully Paid,house,ND,15.73,0.0,1.0,12.0,0.0,4378,17.3,28.0
+12000,12000, 60 months,16.55,295.34,D,D2,1 year,MORTGAGE,65000.0,Not Verified,Charged Off,debt_consolidation,IN,25.17,4.0,1.0,16.0,0.0,6489,99.8,25.0
+15000,15000, 60 months,10.75,324.27,B,B4,10+ years,RENT,40000.0,Source Verified,Charged Off,credit_card,NJ,16.05,0.0,0.0,10.0,1.0,10675,53.4,21.0
+12000,12000, 36 months,7.49,373.22,A,A4,9 years,MORTGAGE,90000.0,Not Verified,Fully Paid,debt_consolidation,CA,17.4,0.0,0.0,9.0,1.0,10943,30.9,28.0
+4000,4000, 36 months,13.67,136.08,B,B5,5 years,MORTGAGE,60000.0,Not Verified,Fully Paid,debt_consolidation,CT,20.68,1.0,0.0,6.0,0.0,15596,93.4,17.0
+2800,2800, 36 months,8.18,87.98,B,B1,1 year,RENT,34236.0,Source Verified,Fully Paid,debt_consolidation,TX,26.15,0.0,0.0,11.0,1.0,8204,39.8,26.0
+25000,25000, 36 months,6.24,763.28,A,A2,10+ years,MORTGAGE,55000.0,Source Verified,Charged Off,debt_consolidation,FL,24.42,0.0,0.0,16.0,0.0,27153,45.4,30.0
+5000,5000, 36 months,8.39,157.59,B,B1,10+ years,MORTGAGE,40000.0,Not Verified,Fully Paid,debt_consolidation,FL,11.22,1.0,1.0,11.0,0.0,8793,31.2,22.0
+15000,15000, 36 months,6.39,458.99,A,A2,10+ years,MORTGAGE,86400.0,Not Verified,Fully Paid,credit_card,NM,7.9,1.0,0.0,13.0,0.0,25797,23.3,24.0
+8000,8000, 36 months,11.44,263.58,B,B4,8 years,OWN,100000.0,Verified,Fully Paid,debt_consolidation,NJ,1.7,3.0,0.0,6.0,0.0,1822,13.0,14.0
+17975,17975, 60 months,17.57,452.26,D,D4,10+ years,RENT,40000.0,Source Verified,Charged Off,credit_card,MN,30.33,0.0,0.0,8.0,0.0,14659,94.6,14.0
+12400,12400, 36 months,11.26,407.51,B,B2,< 1 year,RENT,44196.0,Source Verified,Fully Paid,debt_consolidation,TX,7.96,0.0,0.0,9.0,0.0,12656,71.9,34.0
+20500,20500, 60 months,27.88,636.81,G,G3,8 years,MORTGAGE,41000.0,Source Verified,Fully Paid,debt_consolidation,WA,25.91,0.0,0.0,9.0,1.0,2842,38.9,29.0
+29975,29975, 60 months,11.99,666.63,B,B5,4 years,MORTGAGE,60000.0,Source Verified,Fully Paid,credit_card,PA,28.04,0.0,1.0,16.0,0.0,25557,26.3,43.0
+8300,8300, 36 months,7.91,259.75,A,A5,,RENT,52000.0,Not Verified,Fully Paid,debt_consolidation,CO,9.46,0.0,1.0,8.0,1.0,7585,35.1,25.0
+7775,7775, 36 months,17.86,280.54,D,D5,10+ years,RENT,20000.0,Verified,Fully Paid,debt_consolidation,MI,32.47,0.0,0.0,9.0,3.0,10158,77.0,21.0
+26875,26875, 60 months,25.69,799.73,F,F1,5 years,MORTGAGE,65000.0,Verified,Charged Off,major_purchase,TX,28.64,0.0,1.0,36.0,0.0,7157,20.3,61.0
+5400,5400, 36 months,13.44,183.1,C,C3,2 years,RENT,70000.0,Source Verified,Fully Paid,home_improvement,FL,6.05,0.0,0.0,10.0,0.0,519,9.8,14.0
+11000,11000, 36 months,12.59,368.47,C,C2,10+ years,RENT,33000.0,Verified,Fully Paid,debt_consolidation,IL,22.47,1.0,2.0,5.0,0.0,7650,78.1,10.0
+5000,5000, 36 months,6.97,154.32,A,A3,,OWN,14400.0,Not Verified,Fully Paid,credit_card,FL,22.75,0.0,0.0,12.0,0.0,3923,17.6,28.0
+7600,7600, 36 months,12.79,255.31,C,C1,3 years,RENT,35000.0,Source Verified,Fully Paid,debt_consolidation,CA,15.91,0.0,0.0,5.0,0.0,1214,15.2,8.0
+8000,8000, 36 months,6.03,243.49,A,A1,3 years,MORTGAGE,95500.0,Not Verified,Fully Paid,debt_consolidation,GA,8.27,0.0,0.0,5.0,0.0,4342,14.4,11.0
+9000,9000, 36 months,6.03,273.92,A,A1,3 years,RENT,50000.0,Not Verified,Fully Paid,home_improvement,OH,8.9,0.0,0.0,7.0,0.0,1741,62.2,26.0
+9000,9000, 36 months,12.12,299.45,B,B3,7 years,MORTGAGE,82000.0,Not Verified,Fully Paid,home_improvement,CA,23.27,0.0,1.0,14.0,0.0,17731,66.7,32.0
+28000,28000, 60 months,21.49,765.24,D,D5,1 year,OWN,91000.0,Verified,Fully Paid,other,MD,17.58,11.0,0.0,15.0,0.0,13554,102.7,34.0
+10000,10000, 60 months,17.86,253.18,D,D5,10+ years,OWN,25000.0,Source Verified,Charged Off,debt_consolidation,MT,32.65,1.0,1.0,4.0,0.0,6526,59.3,17.0
+1400,1400, 36 months,7.97,43.86,A,A5,10+ years,RENT,45000.0,Not Verified,Charged Off,other,NY,17.88,1.0,0.0,18.0,0.0,10928,44.1,25.0
+26500,26500, 60 months,25.57,786.7,F,F5,10+ years,MORTGAGE,60000.0,Verified,Charged Off,debt_consolidation,MN,26.96,0.0,0.0,10.0,0.0,27434,81.2,27.0
+28000,28000, 36 months,7.39,869.57,A,A4,9 years,RENT,170000.0,Not Verified,Fully Paid,debt_consolidation,CA,10.4,0.0,0.0,9.0,0.0,34560,38.8,27.0
+10975,10975, 60 months,17.86,277.86,D,D5,5 years,RENT,27456.0,Verified,Charged Off,debt_consolidation,KS,21.9,0.0,0.0,15.0,0.0,12470,33.1,26.0
+24750,24750, 36 months,10.75,807.36,B,B4,10+ years,MORTGAGE,55000.0,Source Verified,Fully Paid,debt_consolidation,FL,13.88,0.0,0.0,12.0,0.0,20232,46.0,15.0
+10000,10000, 36 months,9.17,318.79,B,B2,3 years,OWN,45000.0,Not Verified,Fully Paid,credit_card,PA,31.28,0.0,0.0,9.0,0.0,15036,96.4,30.0
+9000,9000, 36 months,11.67,297.52,B,B4,5 years,MORTGAGE,30000.0,Not Verified,Fully Paid,debt_consolidation,CT,17.83,0.0,3.0,16.0,0.0,11925,42.9,39.0
+11200,11200, 60 months,17.09,278.9,D,D1,5 years,MORTGAGE,48000.0,Source Verified,Charged Off,medical,MN,25.46,0.0,2.0,5.0,0.0,28098,79.6,5.0
+16800,16800, 36 months,9.17,535.57,B,B2,5 years,MORTGAGE,105000.0,Source Verified,Fully Paid,credit_card,CA,6.64,2.0,0.0,8.0,0.0,6778,42.6,26.0
+7750,7750, 36 months,15.61,270.98,C,C3,1 year,MORTGAGE,45000.0,Verified,Charged Off,debt_consolidation,CA,26.08,2.0,1.0,9.0,0.0,7805,91.8,23.0
+8000,8000, 36 months,12.29,266.83,C,C1,10+ years,MORTGAGE,93000.0,Verified,Fully Paid,debt_consolidation,TX,17.19,0.0,0.0,8.0,0.0,5952,86.3,27.0
+10000,10000, 60 months,21.45,273.08,D,D5,2 years,MORTGAGE,67600.0,Verified,Charged Off,debt_consolidation,VA,9.83,0.0,0.0,8.0,0.0,12596,67.4,12.0
+20000,20000, 36 months,8.38,630.24,B,B1,< 1 year,RENT,146000.0,Source Verified,Fully Paid,debt_consolidation,CA,9.67,0.0,1.0,4.0,0.0,11347,62.7,12.0
+10975,10975, 60 months,12.62,247.59,C,C1,5 years,RENT,35000.0,Verified,Charged Off,debt_consolidation,CT,20.85,0.0,0.0,15.0,0.0,18151,33.0,25.0
+3500,3500, 36 months,6.92,107.95,A,A4,10+ years,MORTGAGE,55054.0,Not Verified,Fully Paid,home_improvement,NC,30.3,0.0,0.0,16.0,0.0,20249,30.5,36.0
+8000,8000, 36 months,6.68,245.85,A,A3,1 year,MORTGAGE,33000.0,Not Verified,Fully Paid,credit_card,GA,18.47,1.0,0.0,7.0,0.0,9510,64.3,15.0
+24000,24000, 60 months,9.99,509.82,B,B3,10+ years,MORTGAGE,65000.0,Not Verified,Charged Off,credit_card,WI,18.13,0.0,0.0,8.0,0.0,34312,83.7,25.0
+15000,15000, 36 months,11.14,492.08,B,B2,3 years,MORTGAGE,100000.0,Verified,Fully Paid,debt_consolidation,AL,28.79,0.0,0.0,12.0,0.0,16258,90.8,19.0
+19125,19125, 36 months,13.11,645.42,B,B4,10+ years,MORTGAGE,43000.0,Verified,Fully Paid,debt_consolidation,NC,34.35,0.0,0.0,10.0,0.0,21947,58.8,22.0
+19075,19075, 60 months,16.29,466.82,C,C4,5 years,MORTGAGE,42500.0,Verified,Fully Paid,major_purchase,TX,30.3,0.0,0.0,20.0,0.0,13699,34.4,26.0
+5000,5000, 36 months,8.59,158.05,A,A5,10+ years,OWN,106000.0,Not Verified,Fully Paid,credit_card,FL,17.15,0.0,0.0,9.0,0.0,10849,60.3,16.0
+6500,6500, 36 months,11.99,215.87,C,C1,2 years,OWN,75000.0,Source Verified,Fully Paid,home_improvement,WI,10.25,0.0,2.0,11.0,0.0,6414,23.1,27.0
+9600,9600, 36 months,17.97,346.92,D,D1,10+ years,MORTGAGE,80000.0,Verified,Charged Off,credit_card,AL,17.93,1.0,0.0,12.0,0.0,20645,87.5,32.0
+20000,20000, 36 months,13.67,680.36,C,C3,2 years,RENT,75000.0,Source Verified,Fully Paid,major_purchase,IL,21.63,0.0,2.0,6.0,0.0,5819,55.0,14.0
+25500,25500, 36 months,12.59,854.17,C,C2,8 years,RENT,65000.0,Source Verified,Fully Paid,debt_consolidation,VA,10.14,0.0,0.0,5.0,0.0,9018,61.8,14.0
+35000,35000, 60 months,18.99,907.73,D,D3,10+ years,MORTGAGE,101000.0,Source Verified,Fully Paid,debt_consolidation,CA,26.32,0.0,1.0,12.0,0.0,28344,73.6,32.0
+5000,5000, 36 months,11.14,164.03,B,B2,5 years,RENT,25000.0,Not Verified,Fully Paid,credit_card,KY,5.53,0.0,1.0,4.0,0.0,4501,22.7,12.0
+6000,6000, 36 months,18.94,219.76,D,D2,10+ years,MORTGAGE,49000.0,Verified,Fully Paid,debt_consolidation,GA,4.14,1.0,0.0,9.0,0.0,3817,13.0,24.0
+3000,3000, 36 months,12.79,100.78,C,C1,10+ years,MORTGAGE,85000.0,Source Verified,Fully Paid,medical,AR,12.07,0.0,3.0,8.0,0.0,13636,83.1,27.0
+18000,18000, 60 months,24.49,522.96,E,E3,4 years,MORTGAGE,90636.0,Source Verified,Charged Off,other,LA,22.18,0.0,0.0,7.0,0.0,23770,83.4,17.0
+2500,2500, 36 months,11.99,83.03,C,C1,10+ years,MORTGAGE,110000.0,Verified,Fully Paid,home_improvement,MI,27.11,0.0,1.0,11.0,0.0,50798,101.2,22.0
+5625,5625, 36 months,16.99,200.52,D,D1,,RENT,112452.48,Verified,Charged Off,medical,TX,12.74,3.0,0.0,6.0,0.0,1339,33.5,9.0
+25000,25000, 36 months,9.75,803.75,B,B3,8 years,MORTGAGE,110000.0,Source Verified,Fully Paid,credit_card,AZ,12.87,0.0,0.0,11.0,0.0,28188,87.5,16.0
+13000,13000, 60 months,14.49,305.8,C,C4,10+ years,RENT,86000.0,Source Verified,Charged Off,debt_consolidation,NY,15.96,0.0,0.0,14.0,0.0,22307,37.7,32.0
+4200,4200, 36 months,14.49,144.55,C,C4,1 year,RENT,34000.0,Not Verified,Charged Off,debt_consolidation,CA,20.86,0.0,0.0,9.0,0.0,7794,86.6,28.0
+10000,10000, 36 months,15.31,348.18,C,C2,8 years,MORTGAGE,65000.0,Not Verified,Fully Paid,major_purchase,FL,12.33,0.0,1.0,14.0,0.0,21225,73.2,26.0
+14000,14000, 36 months,12.42,467.82,B,B4,4 years,MORTGAGE,88000.0,Not Verified,Fully Paid,debt_consolidation,NC,9.63,0.0,1.0,11.0,0.0,11271,70.9,22.0
+6000,6000, 36 months,7.91,187.77,A,A5,10+ years,RENT,60000.0,Source Verified,Fully Paid,debt_consolidation,NV,9.4,0.0,0.0,4.0,0.0,15329,55.3,15.0
+4000,4000, 36 months,11.49,131.89,B,B5,10+ years,MORTGAGE,100000.0,Not Verified,Fully Paid,home_improvement,MI,26.48,0.0,1.0,13.0,0.0,52462,72.9,28.0
+21925,21925, 36 months,8.9,696.19,A,A5,10+ years,MORTGAGE,86320.0,Verified,Fully Paid,credit_card,NH,17.78,0.0,0.0,10.0,0.0,27184,63.2,29.0
+9450,9450, 36 months,17.27,338.19,D,D2,1 year,RENT,27000.0,Verified,Charged Off,debt_consolidation,CO,20.84,0.0,1.0,3.0,0.0,15664,100.0,9.0
+14000,14000, 60 months,20.99,378.67,E,E4,< 1 year,RENT,53000.0,Not Verified,Fully Paid,debt_consolidation,DE,18.25,2.0,0.0,5.0,0.0,53512,35.9,15.0
+7800,7800, 36 months,13.33,264.06,C,C3,10+ years,OWN,52000.0,Verified,Fully Paid,credit_card,MI,31.15,2.0,1.0,17.0,0.0,8287,34.7,36.0
+8500,8500, 36 months,12.74,285.34,C,C1,10+ years,MORTGAGE,107777.0,Source Verified,Fully Paid,debt_consolidation,TX,23.84,1.0,0.0,16.0,0.0,17059,57.6,47.0
+8000,8000, 36 months,17.09,285.59,D,D1,3 years,OWN,31000.0,Not Verified,Charged Off,debt_consolidation,FL,24.18,0.0,3.0,16.0,0.0,6420,18.2,19.0
+18000,18000, 36 months,16.99,641.66,D,D3,10+ years,MORTGAGE,102000.0,Source Verified,Fully Paid,debt_consolidation,FL,17.5,0.0,3.0,25.0,0.0,22551,48.9,52.0
+20000,20000, 36 months,6.24,610.62,A,A2,10+ years,RENT,105000.0,Source Verified,Fully Paid,debt_consolidation,CA,13.09,0.0,0.0,8.0,0.0,51172,87.6,17.0
+8000,8000, 36 months,11.99,265.68,B,B5,6 years,MORTGAGE,84000.0,Source Verified,Fully Paid,house,TX,11.19,0.0,1.0,5.0,0.0,357,35.7,13.0
+10625,10625, 60 months,23.4,301.98,E,E5,< 1 year,RENT,40000.0,Verified,Fully Paid,debt_consolidation,NY,21.75,0.0,1.0,8.0,0.0,6237,90.4,13.0
+9725,9725, 36 months,13.99,332.34,C,C4,2 years,MORTGAGE,86000.0,Verified,Charged Off,debt_consolidation,PA,8.09,0.0,0.0,13.0,0.0,0,,19.0
+4900,4900, 36 months,8.39,154.44,B,B1,< 1 year,RENT,55000.0,Source Verified,Fully Paid,debt_consolidation,NJ,14.03,0.0,0.0,20.0,0.0,3621,9.2,22.0
+14125,14125, 36 months,20.49,528.47,E,E1,5 years,MORTGAGE,36000.0,Verified,Fully Paid,credit_card,PA,18.43,0.0,0.0,24.0,0.0,15053,77.4,30.0
+15000,15000, 60 months,9.17,312.62,B,B2,10+ years,MORTGAGE,37000.0,Not Verified,Charged Off,credit_card,TX,29.06,0.0,0.0,9.0,0.0,14375,34.6,22.0
+10000,10000, 60 months,14.3,234.25,C,C1,5 years,RENT,47000.0,Source Verified,Fully Paid,credit_card,NJ,9.65,0.0,2.0,9.0,1.0,10618,57.1,15.0
+6000,6000, 36 months,18.25,217.67,D,D2,< 1 year,RENT,30000.0,Not Verified,Fully Paid,credit_card,OH,21.96,0.0,0.0,5.0,0.0,7011,61.5,10.0
+12000,12000, 60 months,10.99,260.85,B,B4,< 1 year,RENT,42500.0,Source Verified,Fully Paid,credit_card,KY,23.52,1.0,0.0,8.0,0.0,12134,48.5,17.0
+3000,3000, 36 months,11.39,98.78,B,B3,10+ years,MORTGAGE,125000.0,Source Verified,Fully Paid,debt_consolidation,FL,24.49,0.0,0.0,18.0,1.0,27759,61.7,25.0
+3600,3600, 36 months,12.69,120.77,C,C2,10+ years,MORTGAGE,47000.0,Verified,Charged Off,credit_card,TX,16.45,0.0,0.0,5.0,0.0,46315,99.0,6.0
+25000,25000, 60 months,11.99,555.99,B,B5,,MORTGAGE,94644.0,Not Verified,Charged Off,debt_consolidation,TX,34.6,1.0,2.0,18.0,0.0,2647,18.5,41.0
+5000,5000, 36 months,12.99,168.45,C,C1,< 1 year,RENT,50000.0,Not Verified,Charged Off,debt_consolidation,TX,28.73,0.0,1.0,8.0,0.0,7068,78.5,24.0
+27075,27075, 36 months,18.84,990.28,E,E2,10+ years,MORTGAGE,63000.0,Verified,Fully Paid,debt_consolidation,WV,37.37,0.0,2.0,22.0,0.0,20110,60.2,44.0
+6400,6400, 36 months,11.67,211.57,B,B4,10+ years,MORTGAGE,110000.0,Source Verified,Fully Paid,debt_consolidation,CA,11.72,0.0,1.0,8.0,1.0,6828,56.0,32.0
+5000,5000, 36 months,13.33,169.27,C,C3,1 year,MORTGAGE,72000.0,Source Verified,Fully Paid,debt_consolidation,WI,14.35,0.0,3.0,12.0,1.0,10252,28.8,31.0
+15000,15000, 36 months,13.67,510.27,C,C4,10+ years,MORTGAGE,70000.0,Source Verified,Fully Paid,house,NJ,15.14,0.0,1.0,8.0,0.0,5990,50.3,18.0
+11000,11000, 36 months,9.16,350.62,B,B2,10+ years,OWN,60000.0,Not Verified,Charged Off,credit_card,MI,22.88,0.0,2.0,16.0,2.0,5905,18.4,27.0
+20000,20000, 60 months,16.29,489.45,D,D1,10+ years,MORTGAGE,65000.0,Verified,Fully Paid,debt_consolidation,NE,22.27,0.0,2.0,9.0,0.0,1928,29.2,11.0
+5000,5000, 36 months,10.99,163.67,B,B3,10+ years,OWN,35000.0,Not Verified,Fully Paid,credit_card,FL,12.45,0.0,1.0,3.0,1.0,4191,27.0,18.0
+17675,17675, 60 months,15.05,420.96,C,C4,,MORTGAGE,71321.0,Not Verified,Fully Paid,medical,NC,10.53,0.0,1.0,5.0,0.0,1072,29.0,14.0
+20000,20000, 60 months,13.99,465.27,C,C4,10+ years,MORTGAGE,140000.0,Source Verified,Charged Off,debt_consolidation,GA,22.11,1.0,1.0,20.0,3.0,25005,60.7,35.0
+14000,14000, 36 months,6.03,426.1,A,A1,1 year,RENT,65000.0,Verified,Fully Paid,debt_consolidation,WA,27.1,0.0,0.0,23.0,0.0,8023,9.4,46.0
+30000,30000, 36 months,9.67,963.38,B,B1,< 1 year,RENT,90000.0,Verified,Fully Paid,credit_card,IL,15.85,0.0,0.0,18.0,0.0,31417,84.2,38.0
+9000,9000, 36 months,9.49,288.26,B,B2,3 years,MORTGAGE,450000.0,Source Verified,Fully Paid,debt_consolidation,MO,9.41,0.0,0.0,12.0,0.0,94546,89.2,29.0
+2000,2000, 36 months,14.99,69.33,C,C5,< 1 year,RENT,30000.0,Not Verified,Charged Off,debt_consolidation,FL,35.84,0.0,1.0,8.0,0.0,14932,79.4,14.0
+22000,22000, 60 months,23.88,631.37,E,E2,2 years,OWN,72000.0,Source Verified,Charged Off,house,MI,14.97,0.0,2.0,15.0,1.0,5955,35.0,20.0
+10000,10000, 36 months,12.29,333.53,C,C1,6 years,MORTGAGE,50000.0,Source Verified,Charged Off,debt_consolidation,CA,14.8,0.0,0.0,14.0,2.0,2112,31.1,25.0
+6000,6000, 36 months,12.99,202.14,B,B5,8 years,MORTGAGE,90000.0,Source Verified,Charged Off,home_improvement,VA,8.52,1.0,1.0,4.0,1.0,9132,70.2,7.0
+10000,10000, 36 months,11.49,329.72,B,B5,3 years,RENT,55000.0,Source Verified,Charged Off,credit_card,FL,15.51,0.0,0.0,4.0,0.0,5617,80.2,9.0
+2000,2000, 36 months,17.09,71.4,D,D1,4 years,MORTGAGE,33196.8,Source Verified,Fully Paid,debt_consolidation,IL,27.26,0.0,0.0,8.0,1.0,8262,54.7,22.0
+15000,15000, 36 months,9.99,483.94,B,B3,10+ years,OWN,90000.0,Source Verified,Fully Paid,credit_card,CA,33.07,0.0,0.0,11.0,0.0,12495,69.4,55.0
+3150,3150, 36 months,14.64,108.65,C,C3,6 years,RENT,32000.0,Verified,Fully Paid,debt_consolidation,WA,15.75,0.0,0.0,10.0,1.0,948,10.0,16.0
+5000,5000, 36 months,7.62,155.81,A,A3,5 years,MORTGAGE,75000.0,Not Verified,Charged Off,home_improvement,CA,18.67,0.0,0.0,13.0,0.0,36517,53.2,33.0
+10000,10000, 36 months,6.03,304.36,A,A1,10+ years,MORTGAGE,72000.0,Source Verified,Fully Paid,major_purchase,TX,19.05,0.0,0.0,10.0,0.0,12828,17.7,17.0
+16000,16000, 36 months,16.99,570.37,D,D1,4 years,RENT,50000.0,Source Verified,Charged Off,debt_consolidation,CA,8.91,0.0,0.0,4.0,1.0,12125,75.8,6.0
+20000,20000, 36 months,24.08,785.5,F,F2,10+ years,MORTGAGE,52000.0,Source Verified,Fully Paid,debt_consolidation,IL,27.81,0.0,0.0,13.0,0.0,27240,71.9,21.0
+5600,5600, 36 months,12.99,188.66,C,C2,4 years,RENT,62000.0,Source Verified,Fully Paid,debt_consolidation,CO,12.43,1.0,1.0,10.0,1.0,1368,17.8,26.0
+14500,14500, 36 months,12.69,486.41,C,C2,10+ years,RENT,29000.0,Not Verified,Charged Off,debt_consolidation,MD,19.12,0.0,0.0,12.0,1.0,8881,42.7,22.0
+12000,12000, 36 months,16.99,427.78,D,D3,< 1 year,RENT,95000.0,Source Verified,Fully Paid,other,CA,22.15,0.0,3.0,17.0,0.0,9222,32.1,21.0
+15000,15000, 36 months,11.99,498.15,B,B3,2 years,RENT,72000.0,Not Verified,Charged Off,debt_consolidation,NV,9.65,0.0,1.0,11.0,0.0,27490,48.1,28.0
+12000,12000, 36 months,10.99,392.81,B,B4,2 years,RENT,65000.0,Source Verified,Fully Paid,debt_consolidation,NY,9.42,0.0,1.0,17.0,2.0,10197,47.2,48.0
+12000,12000, 60 months,19.72,316.06,D,D5,10+ years,MORTGAGE,46400.0,Verified,Fully Paid,debt_consolidation,CA,25.37,0.0,0.0,18.0,0.0,10761,69.4,30.0
+10000,10000, 36 months,8.99,317.96,B,B1,3 years,RENT,51000.0,Not Verified,Fully Paid,debt_consolidation,FL,27.04,0.0,0.0,15.0,0.0,4902,6.5,23.0
+28000,28000, 60 months,27.49,863.21,F,F4,10+ years,RENT,115000.0,Verified,Charged Off,major_purchase,CA,19.65,9.0,5.0,13.0,0.0,6401,41.0,40.0
+8000,8000, 36 months,12.99,269.52,C,C2,10+ years,MORTGAGE,120000.0,Not Verified,Fully Paid,home_improvement,GA,34.45,0.0,0.0,27.0,0.0,38865,75.6,45.0
+10000,10000, 36 months,18.49,363.99,D,D2,10+ years,MORTGAGE,51000.0,Not Verified,Fully Paid,debt_consolidation,SC,23.11,0.0,2.0,10.0,0.0,2621,90.4,46.0
+10625,10625, 36 months,12.49,355.4,B,B5,4 years,MORTGAGE,51000.0,Not Verified,Charged Off,debt_consolidation,TX,16.59,0.0,0.0,10.0,0.0,8422,70.8,31.0
+15725,15725, 36 months,18.25,570.48,D,D3,5 years,RENT,34200.0,Verified,Fully Paid,debt_consolidation,OH,35.02,0.0,0.0,13.0,0.0,13067,44.1,26.0
+26400,26400, 60 months,13.99,614.15,C,C4,7 years,MORTGAGE,71000.0,Verified,Fully Paid,debt_consolidation,MN,25.59,2.0,0.0,14.0,0.0,65017,70.8,28.0
+8000,8000, 36 months,9.8,257.39,B,B3,3 years,RENT,57750.0,Verified,Fully Paid,small_business,GA,22.86,0.0,0.0,11.0,0.0,5980,35.8,26.0
+10000,10000, 36 months,15.31,348.18,C,C2,10+ years,MORTGAGE,60000.0,Source Verified,Fully Paid,credit_card,LA,4.22,0.0,0.0,4.0,1.0,7108,69.7,6.0
+6425,6425, 36 months,17.57,230.9,D,D4,,OWN,14000.0,Verified,Charged Off,debt_consolidation,AZ,20.84,0.0,0.0,11.0,0.0,5576,35.5,16.0
+8550,8550, 36 months,13.98,292.14,C,C3,7 years,MORTGAGE,34444.0,Not Verified,Charged Off,debt_consolidation,KY,25.47,0.0,0.0,15.0,1.0,6130,55.7,32.0
+24000,24000, 60 months,17.27,599.96,C,C5,10+ years,MORTGAGE,68000.0,Source Verified,Fully Paid,credit_card,PA,22.45,2.0,1.0,15.0,0.0,25791,62.6,40.0
+3000,3000, 36 months,7.39,93.17,A,A4,10+ years,OWN,72000.0,Not Verified,Fully Paid,other,NY,11.0,0.0,0.0,8.0,0.0,2468,34.8,30.0
+14000,14000, 60 months,17.76,353.69,D,D1,10+ years,MORTGAGE,49000.0,Verified,Charged Off,debt_consolidation,TN,30.36,0.0,0.0,11.0,0.0,20733,70.0,24.0
+16375,16375, 36 months,13.99,559.58,C,C3,10+ years,MORTGAGE,39000.0,Source Verified,Fully Paid,debt_consolidation,MO,0.77,1.0,0.0,3.0,1.0,684,42.7,11.0
+28000,28000, 60 months,8.67,576.76,B,B1,10+ years,MORTGAGE,100000.0,Source Verified,Fully Paid,debt_consolidation,KS,8.17,0.0,0.0,14.0,0.0,23010,16.8,30.0
+12500,12500, 36 months,6.03,380.45,A,A1,9 years,MORTGAGE,55000.0,Not Verified,Fully Paid,debt_consolidation,AK,14.47,0.0,1.0,7.0,0.0,7681,40.9,13.0
+5600,5600, 36 months,8.9,177.82,A,A5,2 years,RENT,31000.0,Source Verified,Fully Paid,credit_card,CO,10.49,0.0,0.0,9.0,0.0,5134,22.6,33.0
+9000,9000, 36 months,12.74,302.12,C,C1,3 years,RENT,134000.0,Source Verified,Fully Paid,debt_consolidation,NY,21.95,0.0,0.0,16.0,0.0,53504,65.2,38.0
+2800,2800, 36 months,15.61,97.91,D,D1,4 years,RENT,58000.0,Not Verified,Fully Paid,debt_consolidation,VA,34.74,0.0,0.0,11.0,1.0,11170,75.5,34.0
+10000,10000, 36 months,13.11,337.47,B,B4,2 years,MORTGAGE,85000.0,Not Verified,Fully Paid,debt_consolidation,KY,16.94,0.0,0.0,21.0,0.0,3356,57.9,25.0
+1800,1800, 36 months,12.69,60.39,C,C2,< 1 year,RENT,28000.0,Not Verified,Charged Off,debt_consolidation,NY,4.8,1.0,1.0,12.0,0.0,4078,19.3,26.0
+18000,18000, 60 months,14.99,428.13,C,C5,7 years,RENT,55000.0,Source Verified,Charged Off,car,AL,12.0,0.0,2.0,6.0,0.0,4707,18.8,16.0
+12000,12000, 36 months,12.79,403.12,C,C1,10+ years,RENT,50000.0,Not Verified,Charged Off,debt_consolidation,RI,9.77,0.0,1.0,6.0,1.0,8080,55.0,8.0
+3000,3000, 36 months,8.59,94.83,A,A5,5 years,MORTGAGE,49000.0,Source Verified,Fully Paid,credit_card,NJ,32.75,0.0,0.0,17.0,0.0,51111,51.8,27.0
+6400,6400, 36 months,15.99,224.98,C,C5,2 years,RENT,39520.0,Verified,Charged Off,debt_consolidation,MN,19.31,0.0,0.0,13.0,0.0,12457,64.2,27.0
+17000,17000, 60 months,21.49,464.61,E,E3,2 years,OWN,45000.0,Verified,Fully Paid,debt_consolidation,CA,27.16,0.0,0.0,12.0,1.0,15015,69.8,34.0
+5400,5400, 36 months,16.29,190.63,D,D1,8 years,RENT,28000.0,Not Verified,Charged Off,vacation,NY,32.1,0.0,0.0,22.0,0.0,3564,37.5,28.0
+5600,5600, 36 months,8.9,177.82,A,A5,,RENT,16800.0,Source Verified,Fully Paid,house,VA,5.86,0.0,0.0,7.0,0.0,1104,10.8,17.0
+17100,17100, 36 months,9.44,547.29,B,B1,10+ years,RENT,40000.0,Source Verified,Fully Paid,other,NY,25.38,0.0,0.0,9.0,0.0,16335,57.9,13.0
+10000,10000, 36 months,9.17,318.79,B,B1,8 years,MORTGAGE,54121.0,Not Verified,Fully Paid,credit_card,TX,10.16,2.0,0.0,8.0,0.0,14984,51.8,15.0
+7000,7000, 36 months,8.99,222.57,B,B1,10+ years,MORTGAGE,68000.0,Source Verified,Fully Paid,credit_card,OR,24.92,0.0,0.0,5.0,0.0,4083,45.4,23.0
+5500,5500, 36 months,12.62,184.32,C,C1,3 years,RENT,52000.0,Source Verified,Fully Paid,debt_consolidation,ID,19.05,0.0,1.0,20.0,0.0,4247,14.8,27.0
+8125,8125, 60 months,17.56,204.39,D,D1,1 year,RENT,33000.0,Verified,Fully Paid,debt_consolidation,NJ,23.53,0.0,2.0,12.0,0.0,7362,38.7,17.0
+12800,12800, 36 months,6.62,393.01,A,A2,< 1 year,RENT,103000.0,Verified,Fully Paid,credit_card,GA,7.87,0.0,0.0,14.0,0.0,11871,20.9,40.0
+2000,2000, 36 months,14.46,68.81,C,C4,1 year,MORTGAGE,68000.0,Source Verified,Fully Paid,other,CA,21.99,0.0,0.0,10.0,0.0,8655,60.5,15.0
+20000,20000, 36 months,10.99,654.68,B,B3,2 years,RENT,95000.0,Verified,Fully Paid,credit_card,VA,13.65,0.0,0.0,8.0,0.0,27686,54.3,26.0
+35000,35000, 60 months,23.43,995.34,F,F1,9 years,OWN,153200.0,Verified,Charged Off,home_improvement,MD,12.53,2.0,0.0,6.0,2.0,943,32.7,15.0
+25000,25000, 60 months,10.99,543.44,B,B4,10+ years,RENT,65000.0,Verified,Fully Paid,credit_card,CA,13.63,0.0,0.0,19.0,0.0,4198,13.6,33.0
+21000,21000, 60 months,8.9,434.91,A,A5,9 years,MORTGAGE,80000.0,Source Verified,Charged Off,debt_consolidation,UT,6.19,0.0,0.0,19.0,0.0,8282,12.5,56.0
+32000,32000, 60 months,22.35,890.19,D,D5,10+ years,RENT,116000.0,Source Verified,Fully Paid,debt_consolidation,MD,18.32,1.0,0.0,30.0,0.0,32758,43.2,66.0
+9000,9000, 36 months,6.49,275.81,A,A2,10+ years,MORTGAGE,31000.0,Not Verified,Fully Paid,credit_card,NC,18.71,0.0,1.0,19.0,1.0,20136,36.0,28.0
+18000,18000, 36 months,11.44,593.06,B,B4,,RENT,50000.0,Verified,Fully Paid,credit_card,NJ,20.36,0.0,0.0,8.0,2.0,28096,75.7,11.0
+10800,10800, 36 months,18.2,391.54,E,E1,< 1 year,RENT,30000.0,Verified,Fully Paid,debt_consolidation,MN,39.4,4.0,0.0,14.0,1.0,2639,66.0,34.0
+32000,32000, 60 months,9.44,671.13,B,B1,10+ years,MORTGAGE,150000.0,Source Verified,Fully Paid,credit_card,FL,16.47,0.0,0.0,13.0,0.0,10047,30.7,28.0
+12000,12000, 60 months,16.02,291.95,C,C5,10+ years,MORTGAGE,68000.0,Source Verified,Fully Paid,debt_consolidation,CA,13.64,0.0,0.0,8.0,2.0,5551,44.8,14.0
+30000,30000, 36 months,28.72,1252.61,F,F1,2 years,MORTGAGE,102000.0,Verified,Charged Off,debt_consolidation,CA,45.92,2.0,1.0,18.0,0.0,17567,39.0,36.0
+16000,16000, 36 months,11.99,531.36,B,B5,3 years,OWN,60000.0,Not Verified,Charged Off,credit_card,IL,22.08,1.0,0.0,17.0,0.0,13827,58.8,28.0
+10000,10000, 36 months,14.16,342.56,C,C2,4 years,MORTGAGE,63000.0,Source Verified,Fully Paid,debt_consolidation,OH,30.15,0.0,1.0,15.0,1.0,12437,55.5,39.0
+3000,3000, 36 months,18.49,109.2,D,D2,9 years,RENT,40000.0,Not Verified,Fully Paid,other,IN,15.81,0.0,0.0,11.0,0.0,9225,40.8,20.0
+5000,5000, 36 months,19.05,183.41,D,D4,10+ years,MORTGAGE,52000.0,Not Verified,Fully Paid,debt_consolidation,NH,21.35,1.0,3.0,8.0,0.0,8672,51.3,32.0
+10000,10000, 36 months,13.35,338.63,C,C2,2 years,RENT,75000.0,Source Verified,Fully Paid,other,OH,24.27,1.0,2.0,7.0,0.0,2729,17.2,14.0
+6300,6300, 36 months,12.49,210.73,B,B4,1 year,RENT,25000.0,Source Verified,Fully Paid,debt_consolidation,TX,17.05,0.0,0.0,13.0,0.0,6341,80.3,27.0
+7200,7200, 36 months,11.67,238.01,B,B4,1 year,RENT,36000.0,Source Verified,Fully Paid,debt_consolidation,AL,26.5,0.0,1.0,16.0,1.0,6696,34.3,46.0
+17925,17925, 36 months,12.69,601.3,C,C2,,MORTGAGE,39000.0,Verified,Fully Paid,debt_consolidation,CO,36.06,0.0,0.0,14.0,0.0,49116,69.5,27.0
+14000,14000, 36 months,20.5,523.87,E,E2,10+ years,RENT,240000.0,Verified,Fully Paid,other,IL,15.39,0.0,1.0,27.0,0.0,45262,80.1,63.0
+8000,8000, 36 months,16.29,282.41,C,C5,10+ years,MORTGAGE,65000.0,Not Verified,Charged Off,home_improvement,MI,22.65,3.0,1.0,11.0,0.0,2027,50.7,40.0
+21000,21000, 36 months,10.99,687.42,B,B4,10+ years,MORTGAGE,80000.0,Source Verified,Charged Off,credit_card,TX,11.4,0.0,0.0,11.0,0.0,22738,79.8,36.0
+16000,16000, 36 months,10.99,523.75,B,B4,10+ years,MORTGAGE,70000.0,Source Verified,Fully Paid,credit_card,MN,19.99,0.0,1.0,7.0,1.0,5746,72.7,9.0
+7000,7000, 36 months,15.99,246.07,C,C5,< 1 year,RENT,50000.0,Source Verified,Charged Off,debt_consolidation,OH,16.08,0.0,0.0,4.0,0.0,834,20.3,25.0
+18000,18000, 60 months,17.57,452.89,D,D4,1 year,RENT,80000.0,Not Verified,Charged Off,debt_consolidation,NY,14.39,0.0,2.0,6.0,0.0,6236,29.7,17.0
+14400,14400, 60 months,26.3,433.71,E,E5,3 years,RENT,38000.0,Not Verified,Fully Paid,credit_card,MN,26.56,0.0,0.0,13.0,1.0,6461,39.9,24.0
+20000,20000, 60 months,13.99,465.27,C,C4,1 year,RENT,125000.0,Verified,Charged Off,debt_consolidation,TX,23.06,0.0,0.0,16.0,0.0,26426,49.4,47.0
+20000,20000, 36 months,12.12,665.44,B,B3,1 year,RENT,60000.0,Verified,Fully Paid,debt_consolidation,CO,21.66,1.0,1.0,10.0,0.0,10841,27.4,28.0
+10000,10000, 60 months,13.98,232.58,C,C3,2 years,RENT,35000.0,Source Verified,Charged Off,debt_consolidation,CA,11.52,0.0,0.0,13.0,0.0,6612,63.6,28.0
+6000,6000, 36 months,12.12,199.63,B,B3,10+ years,RENT,44789.16,Source Verified,Fully Paid,debt_consolidation,OH,12.73,0.0,0.0,5.0,1.0,5591,88.7,10.0
+16750,16750, 60 months,25.57,497.25,F,F5,8 years,MORTGAGE,56000.0,Source Verified,Fully Paid,debt_consolidation,OH,14.36,0.0,1.0,12.0,0.0,748,8.5,29.0
+6450,6450, 36 months,14.46,221.89,C,C4,1 year,MORTGAGE,35000.0,Source Verified,Fully Paid,debt_consolidation,IL,24.65,0.0,1.0,16.0,2.0,10664,19.5,37.0
+2000,2000, 36 months,11.49,65.95,B,B4,7 years,MORTGAGE,62000.0,Source Verified,Charged Off,other,NV,19.61,0.0,0.0,9.0,0.0,17377,74.9,18.0
+20000,20000, 36 months,9.75,643.0,B,B3,4 years,MORTGAGE,85000.0,Verified,Charged Off,credit_card,NJ,30.82,0.0,0.0,16.0,0.0,136636,93.0,21.0
+5000,5000, 36 months,6.71,153.73,A,A3,3 years,MORTGAGE,65000.0,Not Verified,Fully Paid,major_purchase,MA,12.19,0.0,1.0,8.0,0.0,2170,3.2,8.0
+24650,20900, 60 months,16.89,518.19,D,D4,6 years,RENT,45000.0,Verified,Charged Off,debt_consolidation,WA,21.65,0.0,1.0,4.0,0.0,5141,41.1,21.0
+6000,6000, 36 months,11.53,197.95,B,B5,4 years,RENT,20000.0,Not Verified,Fully Paid,debt_consolidation,CA,18.91,0.0,0.0,5.0,0.0,6221,69.1,6.0
+25000,25000, 60 months,20.39,667.79,D,D4,< 1 year,MORTGAGE,100000.0,Verified,Charged Off,debt_consolidation,CA,12.84,2.0,0.0,14.0,0.0,14724,43.3,29.0
+15000,15000, 36 months,15.31,522.26,C,C5,1 year,MORTGAGE,84000.0,Source Verified,Charged Off,home_improvement,TX,28.24,0.0,0.0,9.0,0.0,17320,51.7,20.0
+11200,11200, 60 months,13.67,258.7,C,C3,3 years,RENT,29000.0,Source Verified,Charged Off,debt_consolidation,CA,18.83,1.0,0.0,13.0,0.0,10219,35.0,24.0
+10000,10000, 36 months,9.17,318.79,B,B1,,MORTGAGE,63000.0,Verified,Fully Paid,debt_consolidation,NJ,15.58,0.0,0.0,20.0,0.0,3785,12.2,33.0
+22000,22000, 60 months,15.99,534.89,C,C5,,MORTGAGE,86555.0,Verified,Charged Off,debt_consolidation,FL,14.21,0.0,0.0,9.0,0.0,21393,89.9,19.0
+14850,14850, 36 months,11.55,490.05,B,B3,10+ years,MORTGAGE,37000.0,Verified,Fully Paid,credit_card,AZ,16.83,0.0,2.0,8.0,0.0,14808,78.3,25.0
+28000,28000, 36 months,9.44,896.14,B,B1,10+ years,MORTGAGE,120000.0,Not Verified,Fully Paid,debt_consolidation,TX,25.35,0.0,0.0,16.0,0.0,22527,49.4,35.0
+8000,8000, 36 months,11.99,265.68,C,C1,3 years,RENT,65000.0,Source Verified,Charged Off,other,TX,14.86,3.0,0.0,9.0,0.0,2408,14.5,13.0
+3000,3000, 36 months,15.8,105.18,C,C3,,RENT,10000.0,Source Verified,Fully Paid,debt_consolidation,CA,10.32,0.0,1.0,3.0,0.0,2658,75.9,4.0
+16000,16000, 60 months,9.49,335.96,B,B2,2 years,MORTGAGE,73000.0,Not Verified,Fully Paid,debt_consolidation,MD,17.05,0.0,0.0,13.0,0.0,21805,54.5,27.0
+16200,16200, 60 months,14.99,385.32,C,C5,2 years,OWN,101000.0,Not Verified,Charged Off,major_purchase,AZ,10.77,0.0,0.0,9.0,0.0,77643,82.1,19.0
+16000,10850, 60 months,18.25,277.0,D,D5,9 years,OWN,50000.0,Verified,Charged Off,debt_consolidation,MN,14.35,1.0,0.0,6.0,1.0,9663,80.9,30.0
+4200,4200, 36 months,18.45,152.79,D,D2,10+ years,MORTGAGE,85000.0,Source Verified,Fully Paid,other,NY,23.73,0.0,3.0,15.0,0.0,34258,88.5,49.0
+5000,5000, 36 months,9.17,159.4,B,B2,10+ years,MORTGAGE,60000.0,Source Verified,Fully Paid,debt_consolidation,FL,22.42,0.0,0.0,9.0,0.0,10359,36.0,31.0
+10000,10000, 60 months,19.99,264.89,E,E4,10+ years,RENT,62000.0,Verified,Charged Off,moving,CO,35.93,0.0,0.0,7.0,0.0,17397,90.6,32.0
+10000,10000, 36 months,7.26,309.97,A,A4,10+ years,RENT,30000.0,Not Verified,Fully Paid,debt_consolidation,MA,20.92,0.0,0.0,10.0,0.0,5423,14.2,11.0
+18000,18000, 60 months,24.99,528.22,F,F4,10+ years,MORTGAGE,120000.0,Verified,Charged Off,debt_consolidation,CA,10.43,0.0,3.0,22.0,1.0,14807,83.0,81.0
+15000,15000, 60 months,13.59,345.85,C,C2,3 years,MORTGAGE,54000.0,Not Verified,Fully Paid,debt_consolidation,FL,22.31,1.0,0.0,11.0,0.0,21495,52.4,27.0
+7200,7200, 36 months,10.49,233.99,B,B3,2 years,RENT,36000.0,Source Verified,Charged Off,debt_consolidation,AZ,19.53,0.0,1.0,8.0,0.0,7395,40.6,13.0
+30000,30000, 60 months,13.59,691.69,C,C2,10+ years,MORTGAGE,65000.0,Source Verified,Fully Paid,medical,NY,3.03,0.0,0.0,13.0,0.0,4500,8.0,32.0
+6000,6000, 36 months,21.85,228.68,D,D5,< 1 year,RENT,40000.0,Source Verified,Fully Paid,debt_consolidation,CT,27.06,0.0,0.0,30.0,0.0,7744,36.5,55.0
+10000,10000, 36 months,15.41,348.67,D,D1,8 years,RENT,52340.0,Source Verified,Fully Paid,credit_card,IL,36.85,0.0,3.0,26.0,0.0,40139,77.4,34.0
+35000,35000, 60 months,12.74,791.71,C,C1,10+ years,MORTGAGE,73000.0,Verified,Fully Paid,credit_card,CA,21.72,0.0,0.0,11.0,0.0,35829,58.0,22.0
+10000,10000, 36 months,8.18,314.2,B,B1,10+ years,OWN,75000.0,Source Verified,Fully Paid,debt_consolidation,AL,5.74,0.0,1.0,8.0,0.0,2797,20.3,32.0
+12000,12000, 60 months,21.45,327.69,D,D5,5 years,MORTGAGE,90000.0,Source Verified,Charged Off,other,TX,15.24,3.0,0.0,7.0,0.0,1758,32.6,13.0
+35000,35000, 60 months,18.49,898.13,D,D5,10+ years,OWN,160000.0,Source Verified,Fully Paid,debt_consolidation,MD,14.65,1.0,0.0,18.0,0.0,90009,58.4,31.0
+15000,15000, 36 months,14.64,517.34,C,C3,< 1 year,MORTGAGE,75000.0,Verified,Charged Off,debt_consolidation,NY,19.14,0.0,1.0,20.0,0.0,24737,63.4,52.0
+16000,16000, 36 months,12.49,535.19,B,B5,1 year,MORTGAGE,149000.0,Not Verified,Fully Paid,debt_consolidation,MD,14.07,0.0,0.0,14.0,0.0,44243,67.9,28.0
+16000,16000, 36 months,18.85,585.29,D,D3,2 years,OWN,40432.0,Verified,Fully Paid,debt_consolidation,OR,27.04,0.0,0.0,9.0,0.0,13135,87.6,22.0
+6000,6000, 36 months,6.24,183.19,A,A2,1 year,RENT,60000.0,Not Verified,Fully Paid,major_purchase,CA,13.04,0.0,0.0,10.0,0.0,5964,11.5,17.0
+25000,25000, 60 months,11.44,549.07,B,B4,10+ years,RENT,65000.0,Verified,Fully Paid,debt_consolidation,CA,20.33,0.0,0.0,11.0,1.0,8337,26.0,21.0
+15000,15000, 60 months,19.89,396.5,E,E3,9 years,RENT,62000.0,Verified,Charged Off,debt_consolidation,CO,39.14,0.0,0.0,11.0,0.0,25608,77.1,34.0
+5150,5150, 36 months,7.89,161.13,A,A5,7 years,MORTGAGE,31720.0,Not Verified,Fully Paid,credit_card,AZ,3.86,0.0,0.0,4.0,0.0,4567,56.4,6.0
+28000,28000, 36 months,13.49,950.06,C,C2,10+ years,MORTGAGE,110000.0,Verified,Fully Paid,debt_consolidation,DE,28.85,3.0,1.0,27.0,0.0,37003,31.1,53.0
+25000,25000, 60 months,13.65,577.18,C,C1,10+ years,MORTGAGE,70000.0,Source Verified,Fully Paid,debt_consolidation,NH,23.98,0.0,0.0,12.0,0.0,29397,69.3,18.0
+10000,10000, 36 months,9.99,322.63,B,B3,10+ years,MORTGAGE,85000.0,Verified,Fully Paid,debt_consolidation,MA,4.55,1.0,0.0,6.0,3.0,5945,37.6,10.0
+3500,3500, 36 months,10.91,114.44,B,B4,,RENT,28800.0,Source Verified,Fully Paid,debt_consolidation,GA,19.69,0.0,0.0,6.0,1.0,1970,34.0,7.0
+17000,17000, 36 months,12.99,572.72,C,C1,,MORTGAGE,80000.0,Source Verified,Charged Off,debt_consolidation,PA,23.66,0.0,0.0,7.0,0.0,22646,85.1,18.0
+30000,30000, 60 months,21.45,819.22,D,D5,< 1 year,RENT,53000.0,Not Verified,Fully Paid,house,MI,14.86,1.0,2.0,12.0,0.0,12404,23.9,17.0
+5550,5550, 36 months,17.57,199.46,D,D4,1 year,RENT,35000.0,Source Verified,Fully Paid,debt_consolidation,WI,37.41,0.0,1.0,13.0,0.0,25031,97.8,27.0
+28000,28000, 60 months,21.0,757.5,E,E2,6 years,OWN,100000.0,Verified,Fully Paid,debt_consolidation,WV,30.75,0.0,0.0,17.0,0.0,41363,66.1,42.0
+5000,5000, 36 months,9.93,161.18,B,B2,4 years,RENT,40000.0,Not Verified,Fully Paid,debt_consolidation,CA,1.26,0.0,1.0,5.0,0.0,2084,18.1,16.0
